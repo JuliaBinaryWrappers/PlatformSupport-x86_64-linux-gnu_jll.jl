@@ -1,0 +1,9 @@
+[[PlatformSupport-x86_64-linux-gnu]]
+arch = "x86_64"
+git-tree-sha1 = "ef298087b126ec691d30ea8a0ba6ac7e8d05822f"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-x86_64-linux-gnu.download]]
+    sha256 = "82a4c53abc17e08cd1742573d5862ced76c40e48bec5e94399eecada4e425cc7"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-x86_64-linux-gnu_jll.jl/releases/download/PlatformSupport-x86_64-linux-gnu-v2020.1.15+0/PlatformSupport-x86_64-linux-gnu.v2020.1.15.x86_64-linux-musl.tar.gz"
